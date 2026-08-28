@@ -1,4 +1,48 @@
-Copyright 2026
-Pixel Interactive
+Spreadsheet 2 App — Privacy Policy
+Copyright 2026 Pixel Interactive
+Last updated: 2026-08-28
 
-support: pixelinteractive975@gmail.com
+Support: pixelinteractive975@gmail.com
+
+SUMMARY
+Spreadsheet 2 App collects no data about you. None. The app has no accounts, no analytics, no advertising, no tracking, and no backend — it does not communicate with any server operated by us or by anyone else. Everything you do in the app stays on your device.
+
+1. NO DATA COLLECTION
+We do not collect, receive, store, process, sell, or share any personal data or usage data. The app contains no analytics or crash-reporting SDKs, no advertising frameworks, and no tracking of any kind. We have no servers, and the app never transmits your information to us — we could not see your data even if we wanted to, because it never leaves your device.
+
+2. FULLY OFFLINE BY DESIGN
+The app works entirely offline. Importing spreadsheets, building forms, collecting records, and exporting back to Excel or CSV all happen locally on your device, with no internet connection required. The app performs no cloud communication and no background network activity of its own.
+
+The only network interaction related to the app is subscription billing, which is handled entirely by Apple through the App Store (see Section 5).
+
+3. YOUR DATA STAYS ON YOUR DEVICE
+The spreadsheet files you import, the forms generated from them, and every record you collect are stored only in the app's private storage on your device.
+
+- You own your data at all times.
+- Data leaves your device only when you explicitly export and share it (for example by email, AirDrop, or saving to the Files app). Where it goes then is entirely your choice.
+- Deleting a file in the app, or deleting the app itself, permanently removes the associated data from your device.
+
+4. BACKUPS
+Because we run no cloud service, we cannot restore your data for you. Please take backups into your own hands:
+
+- Device backups: if you have iCloud Backup or computer (Finder/iTunes) backups enabled, the app's data is included in your device backup like any other app data. These backups are managed by you through Apple's services, under your Apple account — we have no access to them.
+- Exports: we strongly recommend regularly exporting important records to Excel or CSV from the app and keeping copies in a location you control (Files, your computer, your own cloud storage). An exported spreadsheet is the most reliable, portable backup of your collected data.
+
+If your device is lost or damaged and no backup or export exists, the data cannot be recovered.
+
+5. SUBSCRIPTION AND PAYMENTS
+Access to the app requires an auto-renewing subscription. Purchases are processed entirely by Apple through your App Store account. We never see or store your payment details, billing address, or Apple ID credentials. Subscription entitlement is verified on-device using Apple's StoreKit framework. For details on how Apple handles your payment data, see Apple's Privacy Policy (https://www.apple.com/legal/privacy/).
+
+6. PERMISSIONS
+The app requests no access to your camera, microphone, location, contacts, photos, or any other sensitive device capability. It only reads the spreadsheet files you explicitly choose to import through the system file picker or share sheet.
+
+7. CHILDREN
+The app does not collect data from anyone, including children. It is a business/productivity tool and is not directed at children.
+
+8. CHANGES TO THIS POLICY
+If a future version of the app ever changes any of the above (for example, by adding an optional online feature), this policy will be updated before that version is released, and the change will be clearly described. The current version of this policy is always available at this address.
+
+9. CONTACT
+Pixel Interactive
+pixelinteractive975@gmail.com
+Questions or concerns about privacy are welcome at this address.
