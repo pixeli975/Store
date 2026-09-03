@@ -1,11 +1,11 @@
 Pixel Interactive — Privacy Policy
 Copyright 2026 Pixel Interactive
-Last updated: 2026-08-28
+Last updated: 2026-09-03
 
 Support: pixelinteractive975@gmail.com
 
 SCOPE
-This privacy policy applies to all Pixel Interactive apps that link to it from their App Store page or from within the app (for example Spreadsheet 2 App and TechFit Voice Notes). All of our apps share the same design principle: they run entirely on your device and collect nothing.
+This privacy policy applies to all Pixel Interactive apps that link to it from their App Store page or from within the app. All of our apps share the same design principle: they run entirely on your device and collect nothing.
 
 SUMMARY
 Our apps collect no data about you. None. They have no accounts, no analytics, no advertising, no tracking, and no backend — they do not communicate with any server operated by us or by anyone else. Everything you do in our apps stays on your device.
@@ -14,12 +14,12 @@ Our apps collect no data about you. None. They have no accounts, no analytics, n
 We do not collect, receive, store, process, sell, or share any personal data or usage data. Our apps contain no analytics or crash-reporting SDKs, no advertising frameworks, and no tracking of any kind. We operate no servers, and our apps never transmit your information to us — we could not see your data even if we wanted to, because it never leaves your device.
 
 2. FULLY OFFLINE BY DESIGN
-Our apps work entirely offline. Everything they do — importing or creating content, recording, transcribing, processing, organizing, and exporting — happens locally on your device, with no internet connection required. Our apps perform no cloud communication and no background network activity of their own. Where an app offers intelligent features (such as transcription or summarization), these run exclusively on-device using Apple's on-device frameworks; nothing is uploaded or analyzed in the cloud.
+Our apps work entirely offline. Everything they do — importing or creating content, recording, processing, organizing, playing, and exporting — happens locally on your device, with no internet connection required. Our apps perform no cloud communication and no background network activity of their own. Where an app offers intelligent features (such as transcription or summarization), these run exclusively on-device using Apple's on-device frameworks; nothing is uploaded or analyzed in the cloud.
 
-The only network interaction related to our apps is subscription billing, which is handled entirely by Apple through the App Store (see Section 5).
+The only network interaction related to our apps is purchase and subscription billing, which is handled entirely by Apple through the App Store (see Section 5).
 
 3. YOUR CONTENT STAYS ON YOUR DEVICE
-Whatever you create or import in our apps — documents, spreadsheets, records, voice recordings, transcripts, notes, tasks — is stored only in the app's private storage on your device.
+Whatever you create or import in our apps — documents, records, recordings, notes, or any other content — is stored only in the app's private storage on your device.
 
 - You own your content at all times.
 - Content leaves your device only when you explicitly export or share it (for example by email, AirDrop, or saving to the Files app). Where it goes then is entirely your choice.
@@ -33,14 +33,14 @@ Because we run no cloud service, we cannot restore your data for you. Please tak
 
 If your device is lost or damaged and no backup or export exists, the data cannot be recovered.
 
-5. SUBSCRIPTIONS AND PAYMENTS
-Some of our apps require an auto-renewing subscription. Purchases are processed entirely by Apple through your App Store account. We never see or store your payment details, billing address, or Apple ID credentials. Subscription entitlement is verified on-device using Apple's StoreKit framework. For details on how Apple handles your payment data, see Apple's Privacy Policy (https://www.apple.com/legal/privacy/).
+5. PURCHASES, SUBSCRIPTIONS AND PAYMENTS
+Some of our apps are one-time purchases; some require an auto-renewing subscription. In every case, purchases are processed entirely by Apple through your App Store account. We never see or store your payment details, billing address, or Apple ID credentials. Where applicable, purchase or subscription entitlement is verified on-device using Apple's StoreKit framework. For details on how Apple handles your payment data, see Apple's Privacy Policy (https://www.apple.com/legal/privacy/).
 
 6. DEVICE PERMISSIONS
-Our apps request only the permissions their features genuinely need — for example, access to a file you choose to import through the system file picker, or microphone access in an app whose purpose is recording voice notes. Anything captured through such a permission is processed and stored on your device only, never transmitted. Our apps do not request access to your location, contacts, or anything else unrelated to their function.
+Our apps request only the permissions their features genuinely need — for example, access to a file you choose to import through the system file picker, or microphone access in an app whose purpose is recording voice notes. Some of our apps request no permissions at all. Anything captured through such a permission is processed and stored on your device only, never transmitted. Our apps do not request access to your location, contacts, or anything else unrelated to their function.
 
 7. CHILDREN
-Our apps do not collect data from anyone, including children. They are productivity tools and are not directed at children.
+Our apps do not collect data from anyone, including children. They are not directed at children.
 
 8. CHANGES TO THIS POLICY
 If a future version of one of our apps ever changes any of the above (for example, by adding an optional online feature), this policy will be updated before that version is released, and the change will be clearly described. The current version of this policy is always available at this address.
